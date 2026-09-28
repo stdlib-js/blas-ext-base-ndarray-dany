@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-23)
+## Unreleased (2026-09-28)
 
 <section class="features">
 
 ### Features
 
+-   [`38fa95c`](https://github.com/stdlib-js/stdlib/commit/38fa95cfd5a15319b4f5d442aaee755bb2e1b7e0) - add C implementation for `blas/ext/base/ndarray/dany` [(#15330)](https://github.com/stdlib-js/stdlib/pull/15330)
 -   [`8fd9261`](https://github.com/stdlib-js/stdlib/commit/8fd92613a473f36db4bf57fdb6d34b6a0664c2b2) - add `blas/ext/base/ndarray/dany` [(#13530)](https://github.com/stdlib-js/stdlib/pull/13530)
 
 </section>
@@ -22,6 +23,7 @@
 
 <details>
 
+-   [`38fa95c`](https://github.com/stdlib-js/stdlib/commit/38fa95cfd5a15319b4f5d442aaee755bb2e1b7e0) - **feat:** add C implementation for `blas/ext/base/ndarray/dany` [(#15330)](https://github.com/stdlib-js/stdlib/pull/15330) _(by MJ)_
 -   [`8fd9261`](https://github.com/stdlib-js/stdlib/commit/8fd92613a473f36db4bf57fdb6d34b6a0664c2b2) - **feat:** add `blas/ext/base/ndarray/dany` [(#13530)](https://github.com/stdlib-js/stdlib/pull/13530) _(by Muhammad Haris, Athan Reines)_
 
 </details>
@@ -34,9 +36,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   MJ
 -   Muhammad Haris
 
 </section>
